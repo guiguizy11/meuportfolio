@@ -16,8 +16,8 @@ const portfolioConfig = {
     // ===== INFORMAÇÕES PESSOAIS =====
     pessoal: {
         nome: "Guilherme Ferreira",
-        titulo: "Lixeiro", // Ex: "Desenvolvedor Full Stack", "Designer UX/UI"
-        descricao: "Apaixonado por lixo e viso deixar o mundo mais limpo. Especializado em lixos orgânicos e em criar ambientes limpos.",
+        titulo: "Advogado", // Ex: "Desenvolvedor Full Stack", "Designer UX/UI"
+        descricao: "Apaixonado por leis e por destruir impostos abusivos. Especializado em direito tributário.",
         
         // Sua foto de perfil (coloque na pasta 'assets/images/')
         foto: "assets/images/perfil.jpg",
@@ -31,8 +31,8 @@ const portfolioConfig = {
 
     // ===== CONTATOS E REDES SOCIAIS =====
     contatos: {
-        email: "seuemail@exemplo.com",
-        telefone: "+55 (11) 99999-9999",
+        email: "guilhermeferreirasouza42@gmail.com",
+        telefone: "+55 (11) 93150-1606",
         linkedin: "https://linkedin.com/in/seuperfil",
         github: "https://github.com/seuusuario",
         instagram: "https://instagram.com/seuusuario", // Opcional
@@ -43,14 +43,14 @@ const portfolioConfig = {
     // ===== SOBRE VOCÊ =====
     sobre: {
         resumo: `
-            Olá! Sou um desenvolvedor apaixonado por criar soluções digitais inovadoras. 
-            Com experiência em desenvolvimento web, busco sempre aprender novas tecnologias 
-            e contribuir para projetos que fazem a diferença.
+            Olá! Sou um advogado apaixonado por criar soluções dentro da legislação brasileira. 
+            Com experiência em direito penal, busco sempre aprimorar meu conhecimento  
+            e contribuir para um direito mais justo.
         `, 
         
         // Suas principais qualidades/características
         qualidades: [
-            "Criativo e inovador",
+            "Responsável e inovador",
             "Trabalho em equipe",
             "Resolução de problemas",
             "Aprendizado contínuo",
