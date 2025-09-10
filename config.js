@@ -15,9 +15,9 @@
 const portfolioConfig = {
     // ===== INFORMAÇÕES PESSOAIS =====
     pessoal: {
-        nome: "Seu Nome Completo",
-        titulo: "Desenvolvedor Frontend", // Ex: "Desenvolvedor Full Stack", "Designer UX/UI"
-        descricao: "Apaixonado por tecnologia e sempre em busca de novos desafios. Especializado em criar experiências digitais incríveis.",
+        nome: "Guilherme Ferreira",
+        titulo: "Lixeiro", // Ex: "Desenvolvedor Full Stack", "Designer UX/UI"
+        descricao: "Apaixonado por lixo e viso deixar o mundo mais limpo. Especializado em lixos orgânicos e em criar ambientes limpos.",
         
         // Sua foto de perfil (coloque na pasta 'assets/images/')
         foto: "assets/images/perfil.jpg",
